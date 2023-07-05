@@ -1,0 +1,1 @@
+var rand_NumeroAleatorio = Math.floor((999-4)*Math.random()) + 1;   
